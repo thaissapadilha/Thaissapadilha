@@ -21,6 +21,6 @@
 
 ### 📬 Contato
 
-Você pode me encontrar no [LinkedIn](www.linkedin.com/in/thaissa-padilha) ou enviar um e-mail para **thaissapmartins@outlook.com**.
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/thaissa-padilha/) ou enviar um e-mail para **thaissapmartins@outlook.com**.
 
 ---
