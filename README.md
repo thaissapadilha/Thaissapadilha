@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! Me chamo Thaissa</h1>
+<h1 align="center">Thaissa Padilha | Desenvolvedora Full Stack</h1>
 
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
