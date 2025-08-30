@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
   💻 Em formação como Desenvolvedora Full Stack<br>
-  📍 25 anos | Brasil
+  📍 26 anos | Brasil
 </p>
 
 ---
