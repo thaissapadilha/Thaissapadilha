@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
   💻 Em formação como Desenvolvedora Full Stack<br>
-  📍 26 anos | Brasil
+  📍 27 anos | Brasil
 </p>
 
 ---
@@ -16,6 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma"/>
 </p>
 ---
 
